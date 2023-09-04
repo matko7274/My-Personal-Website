@@ -2,8 +2,8 @@
   "name": "astrofy",
   "description": "Personal website of Martin Leško",
   "type": "module",
-  "version": "2.5.7",
-  "private": true,
+  "version": "2.5.8",
+  "private": false,
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
