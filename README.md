@@ -46,8 +46,6 @@ npm run dev
 │   ├── content/
 │   │   ├── blog/
 │   │   │   ├── post1.md
-│   │   │   ├── post2.md
-│   │   │   └── post3.md
 │   ├── layouts/
 │   │   └── BaseLayout.astro
 │   │   └── PostLayout.astro
