@@ -1,12 +1,12 @@
-# Astrofy | Personal Porfolio Website Template
+# Personal Website of Martin Leško
 
-![Astrofy | Personal Porfolio Website Template](public/social_img.png)
+![Personal Website of Martin Leško](public/social_img.png)
 
 Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 
 ## Demo
 
-View a live demo of [Astrofy](https://astrofy-template.netlify.app/)
+View a live demo of [Astrofy](https://martinlesko.netlify.app/)
 
 ## Installation
 
